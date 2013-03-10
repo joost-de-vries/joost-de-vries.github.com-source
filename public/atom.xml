@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-03-10T11:28:48+01:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://joost-de-vries.github.com/atom.xml" rel="self"/>
+  <link href="http://joost-de-vries.github.com/"/>
+  <updated>2013-03-10T13:12:48+01:00</updated>
+  <id>http://joost-de-vries.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
